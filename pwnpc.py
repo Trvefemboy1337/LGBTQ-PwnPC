@@ -98,7 +98,8 @@ if __name__ == "__main__":
         time.sleep(1.5)
         print("Here are ur options")
         print("1) DoS attack >:3")
-        print("2) Vulnerability scan")
+        print("2) Website vulnerability scan")
+        print("3) Port scanner (0w0 ;)") 
         options_exploit = input("Enter a exploit number here: ")
         if options_exploit == "1":
             try:
