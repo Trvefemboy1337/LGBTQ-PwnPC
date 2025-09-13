@@ -1,0 +1,10 @@
+requests
+pyfiglet
+scapy
+pyinstaller
+qrcode
+colorama
+flask
+pynput
+pyautogui
+pillow
