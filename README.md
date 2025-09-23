@@ -17,3 +17,6 @@ We have these things here:
 ### Contributions
 If u want to contribute, collab, or anything, I am totally accepting :3
 It will make the tool better and I am happy for those contributions, but do not skid my tool
+
+### Warnings for late things
+Sometimes I am busy with stuff like studies and other things, and also because sometimes I am lazy to code it, but I am going to be actively looking for making it better and more workeful now, with a lot of searches, but still, not making it like a skid ;3
