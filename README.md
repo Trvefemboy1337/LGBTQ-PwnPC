@@ -13,6 +13,7 @@ We have these things here:
     Stresser DoS (In correction and in exploits section);
     QR Code generator (In social engineering section);
 (I forgot to add more, but I will when I update more stuff in the tool :D)
+<img src="https://raw.githubusercontent.com/Trvefemboy1337/LGBTQ-PwnPC/refs/heads/main/images/screenshot1.png">
 
 ### Contributions
 If u want to contribute, collab, or anything, I am totally accepting :3
