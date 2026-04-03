@@ -104,6 +104,8 @@ if __name__ == "__main__":
         options_re = int(input("Choose a tool number: "))
         if options_re == 1:
             ip2server.ip2server()
-        if options_re == 2:
+        elif options_re == 2:
             whoislookup.whois_look()
+        else:
+            print("No option like this :<")
 
