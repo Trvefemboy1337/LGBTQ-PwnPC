@@ -1,2 +1,6 @@
 .venv/
 .idea/
+__pycache__/
+mods/socialengineering/__pycache__/
+mods/exploiting/__pycache__/
+mods/recon/__pycache__/
