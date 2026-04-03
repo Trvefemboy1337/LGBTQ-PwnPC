@@ -8,3 +8,5 @@ flask
 pynput
 pyautogui
 pillow
+dnspython
+python-whois
